@@ -1,3 +1,6 @@
 version control means having differst version of the code so that a different version 
 of the code can be accessed when a certain code has become very confusing, it can be
 achieved by using git and github
+
+note- git diff file command give the current version and the last save point from the git repository
+note - git checkout file reverts the current version to it's last save point of the git repository
