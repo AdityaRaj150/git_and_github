@@ -1,0 +1,5 @@
+working directory -> staging area -> local repository(.git) -> remote repository(github)
+
+generally by convention, we use origin as the remote repository name, main as branch
+we use- git remote add origin link to create a remote repo named origin
+we use- git push -u origin main to push local repo content to remote repo
