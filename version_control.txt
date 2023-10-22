@@ -1,0 +1,3 @@
+version control means having differst version of the code so that a different version 
+of the code can be accessed when a certain code has become very confusing, it can be
+achieved by using git and github
